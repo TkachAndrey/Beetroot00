@@ -1,0 +1,4 @@
+# folder node_modules
+node_modules/
+# folder src with all files
+src/
